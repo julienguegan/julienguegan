@@ -1,7 +1,7 @@
 👋 Hi there, I'm Julien !
 ======================================================
 
-⚡ Check [my blog](https://julienguegan.github.io/) *(if you speak french)*
+⚡ Check [my blog](https://julienguegan.github.io/) ⚡ *(if you speak french)*
 
 
 
