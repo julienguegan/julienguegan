@@ -24,7 +24,7 @@
   <br/>
   <br/>
   <a href="https://www.buymeacoffee.com/julienguegan" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 36px !important;width: 130px !important;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 43px !important;width: 156px !important;">
   </a>
 </p>
 
