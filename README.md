@@ -21,5 +21,10 @@
   🔥 I am interested in AI, data science, mathematics, new technologies🔥 <br/>
   🔨 I have some skills in python, matlab, C/C++, scilab, git🔨 <br/>
   😎 I am improving in deep learning, machine learning, 3D scan, optical systems😎 <br/>
+  <br/>
+  <br/>
+  <a href="https://www.buymeacoffee.com/julienguegan" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 36px !important;width: 130px !important;">
+  </a>
 </p>
 
