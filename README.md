@@ -16,8 +16,8 @@
   <a href="https://open.spotify.com/user/julieng56520">
     <img alt="julien's Spotify" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />
   </a> <br/> <br/>
-  ⚡ Check <a href="https://julienguegan.github.io/"> my blog </a> ⚡ <br/>
-  <i>(if you speak french)</i> <br/> <br/>
+  ⚡ Check <a href="https://julienguegan.github.io/en/"> my blog </a> ⚡ <br/>
+  <br/> <br/>
   🔥 I am interested in AI, data science, mathematics, new technologies🔥 <br/>
   🔨 I have some skills in python, matlab, C/C++, scilab, git🔨 <br/>
   😎 I am improving in deep learning, machine learning, 3D scan, optical systems😎 <br/>
